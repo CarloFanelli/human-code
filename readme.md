@@ -9,7 +9,7 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
 
 - Contare gli ospiti presenti in sala da pranzo
 
-- Creare una lista degli ospiti ["Zio Rino", "Emy" , "zia Lucia" , "nonno Carlo" , "io" ]
+- Creare una lista degli ospiti ["la nonna", "Emy" , "zia Lucia" , "nonno Carlo" , "io" ]
 
 - Mettere la tovaglia
 
@@ -18,9 +18,9 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
 
 - contare i coperti e dividerli per due (2.5)
 
--conto il numero dei partecipanti
+-conto il numero dei partecipanti alla cena appena prima di sedersi a tavola
 
-- creo una lista dei partecipanti alla cena ["Zio Rino", "Emy" , "zia Lucia" , "nonno Carlo" , "io" , "la nonna" ]
+- creo una lista dei partecipanti alla cena ["la nonna", "Emy" , "zia Lucia" , "nonno Carlo" , "io" , "Zio Rino" ] (zio rino era a fare l'aperitivo)
 
 - confronto il numero dei coperti a 2 a 2 con il numero di persone nella lista dei partecipanti contando per 2
     
